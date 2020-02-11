@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Drew Lauck\\.virtualenvs\\lead_manager_react_django-IyYvlwte\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Drew Lauck\\.virtualenvs\\lead_manager_react_django-IyYvlwte\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
 }
